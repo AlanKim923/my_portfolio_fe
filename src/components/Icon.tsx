@@ -1,4 +1,4 @@
-import styles from "../styles/Icon.module.css";
+import styles from "../styles/icon.module.css";
 
 interface IconProps {
     name: string;
